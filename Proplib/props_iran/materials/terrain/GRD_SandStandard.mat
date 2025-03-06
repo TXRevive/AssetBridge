@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "GRD_SandStandard"
+  m_Shader: {fileID: 4800000, guid: e171029e1f4c4357a6540083c46f8f46, type: 3}
+  m_ShaderKeywords: "_LAYER2 _LAYER3 _NORMALMAP _PARALLAX _PARALLAXMAP _PARALLAXMAP1 _SURFACEMAP"
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap1:
+        m_Texture: {fileID: 2800000, guid: 33edf18b39bc4cf591c126f69d490cd3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap2:
+        m_Texture: {fileID: 2800000, guid: 08da4f66ccbf4602b4f43a1a389406d3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex1:
+        m_Texture: {fileID: 2800000, guid: 034ac433213f48c1a67aa5b6b554b7a6, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: d3d0e3bf73564a3680c793eaa829b785, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 2800000, guid: 1cddaec844c24471bf534020667db499, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _Masks:
+        m_Texture: {fileID: 2800000, guid: dd942d4144264a3db7cb8b602fc21ce1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap1:
+        m_Texture: {fileID: 2800000, guid: d14f0092fa7f44c1ae78e982fac691de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _BumpScale1: 1
+    - _BumpScale2: 1
+    - _BumpScale3: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Layer2: 1
+    - _Layer3: 1
+    - _Metallic: 0
+    - _Metallic1: 0
+    - _Metallic2: 0
+    - _Metallic3: 0
+    - _Mode: 0
+    - _OcclusionStrength: 0
+    - _OcclusionStrength1: 0
+    - _OcclusionStrength2: 0
+    - _OcclusionStrength3: 0
+    - _Parallax: 0.02
+    - _Parallax1: 0.02
+    - _Parallax2: 0.02
+    - _Parallax3: 0.02
+    - _ParallaxMapDef_1: 1
+    - _ParallaxMapDef_2: 0
+    - _ParallaxMapDef_3: 0
+    - _Roughness: 1
+    - _Roughness2: 1
+    - _Roughness3: 1
+    - _SmoothnessStrength1: 0
+    - _SmoothnessStrength2: 0
+    - _SmoothnessStrength3: 0
+    - _SpecularHighlights: 1
+    - _Specularity: 0
+    - _SrcBlend: 1
+    - _SurfaceType: 0
+    - _UVSec: 0
+    - _UseParallax: 1
+    - _UseParallax2: 0
+    - _UseParallax3: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

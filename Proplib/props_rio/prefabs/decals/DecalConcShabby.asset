@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1987b680867f3494e8c072e0a71ac46f, type: 3}
+  m_Name: "DecalConcShabby"
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a61178cf3eef4534ad445160568b916e, type: 2}
+  uvChannelModification: 0
+  uvRectangles:
+  - name: "ConcreteShabby_1"
+    lowerLeftUV: {x: 0.01464844, y: 0.4570637}
+    upperRightUV: {x: 0.4571992, y: 0.993722}
+  - name: "ConcreteShabby_2"
+    lowerLeftUV: {x: 0.545265, y: 0.415242}
+    upperRightUV: {x: 0.9735847, y: 0.9911947}
+  - name: "ConcreteShabby_3"
+    lowerLeftUV: {x: 0.01464844, y: 0.01898871}
+    upperRightUV: {x: 0.4519455, y: 0.4341834}
+  - name: "ConcreteShabby_4"
+    lowerLeftUV: {x: 0.4795769, y: 0.01361054}
+    upperRightUV: {x: 0.9661742, y: 0.3900022}
+  uv2Rectangles:
+  - name: "ConcreteShabby_1"
+    lowerLeftUV: {x: 0.01464844, y: 0.4570637}
+    upperRightUV: {x: 0.4571992, y: 0.993722}
+  - name: "ConcreteShabby_2"
+    lowerLeftUV: {x: 0.545265, y: 0.415242}
+    upperRightUV: {x: 0.9735847, y: 0.9911947}
+  - name: "ConcreteShabby_3"
+    lowerLeftUV: {x: 0.01464844, y: 0.01898871}
+    upperRightUV: {x: 0.4519455, y: 0.4341834}
+  - name: "ConcreteShabby_4"
+    lowerLeftUV: {x: 0.4795769, y: 0.01361054}
+    upperRightUV: {x: 0.9661742, y: 0.3900022}

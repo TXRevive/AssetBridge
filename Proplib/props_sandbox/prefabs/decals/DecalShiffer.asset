@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1987b680867f3494e8c072e0a71ac46f, type: 3}
+  m_Name: "DecalShiffer"
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a66cec67e28f4e11aa010317fd2b7b97, type: 2}
+  uvChannelModification: 0
+  uvRectangles:
+  - name: "shiffer_1"
+    lowerLeftUV: {x: 0.05315468, y: 0.5805141}
+    upperRightUV: {x: 0.1785829, y: 0.9126897}
+  - name: "shiffer_2"
+    lowerLeftUV: {x: 0.2554886, y: 0.6236587}
+    upperRightUV: {x: 0.3728077, y: 0.9092558}
+  - name: "shiffer_3"
+    lowerLeftUV: {x: 0.4934082, y: 0.6213989}
+    upperRightUV: {x: 0.8104249, y: 0.9105225}
+  - name: "shiffer_4"
+    lowerLeftUV: {x: 0.01840633, y: 0.02225079}
+    upperRightUV: {x: 0.1964621, y: 0.5022995}
+  - name: "shiffer_5"
+    lowerLeftUV: {x: 0.2475403, y: 0.01236155}
+    upperRightUV: {x: 0.3640852, y: 0.5110022}
+  - name: "shiffer_6"
+    lowerLeftUV: {x: 0.4447556, y: 0.03749254}
+    upperRightUV: {x: 0.5237348, y: 0.3963117}
+  - name: "shiffer_7"
+    lowerLeftUV: {x: 0.5760483, y: 0.0222508}
+    upperRightUV: {x: 0.7342271, y: 0.5203716}
+  - name: "shiffer_8"
+    lowerLeftUV: {x: 0.8010287, y: 0.03337619}
+    upperRightUV: {x: 0.9184144, y: 0.488232}
+  - name: "shiffer_9"
+    lowerLeftUV: {x: 0.4005144, y: 0.4499602}
+    upperRightUV: {x: 0.5735264, y: 0.5512759}
+  uv2Rectangles:
+  - name: "shiffer_1"
+    lowerLeftUV: {x: 0.05315468, y: 0.5805141}
+    upperRightUV: {x: 0.1785829, y: 0.9126897}
+  - name: "shiffer_2"
+    lowerLeftUV: {x: 0.2554886, y: 0.6236587}
+    upperRightUV: {x: 0.3728077, y: 0.9092558}
+  - name: "shiffer_3"
+    lowerLeftUV: {x: 0.4934082, y: 0.6213989}
+    upperRightUV: {x: 0.8104249, y: 0.9105225}
+  - name: "shiffer_4"
+    lowerLeftUV: {x: 0.01840633, y: 0.02225079}
+    upperRightUV: {x: 0.1964621, y: 0.5022995}
+  - name: "shiffer_5"
+    lowerLeftUV: {x: 0.2475403, y: 0.01236155}
+    upperRightUV: {x: 0.3640852, y: 0.5110022}
+  - name: "shiffer_6"
+    lowerLeftUV: {x: 0.4447556, y: 0.03749254}
+    upperRightUV: {x: 0.5237348, y: 0.3963117}
+  - name: "shiffer_7"
+    lowerLeftUV: {x: 0.5760483, y: 0.0222508}
+    upperRightUV: {x: 0.7342271, y: 0.5203716}
+  - name: "shiffer_8"
+    lowerLeftUV: {x: 0.8010287, y: 0.03337619}
+    upperRightUV: {x: 0.9184144, y: 0.488232}
+  - name: "shiffer_9"
+    lowerLeftUV: {x: 0.4005144, y: 0.4499602}
+    upperRightUV: {x: 0.5735264, y: 0.5512759}
