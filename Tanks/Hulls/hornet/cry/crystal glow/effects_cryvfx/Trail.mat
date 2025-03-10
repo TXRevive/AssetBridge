@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Trail"
+  m_Shader: {fileID: 4800000, guid: 6931f781f7b9437798be440c0ba1c451, type: 3}
+  m_ShaderKeywords: "BlendAlpha Clip_OFF FrameBlend_OFF FresnelFade_OFF SoftParticles_OFF
+VertLight_OFF"
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b72a10e5612e4476b7ed721633f186d0, type: 3}
+        m_Scale: {x: -0.7, y: 0.4}
+        m_Offset: {x: 0.2, y: -0.06}
+    m_Floats:
+    - CullMode: 2
+    - DstMode: 10
+    - SrcMode: 5
+    - _BumpScale: 1
+    - _ColorStrength: 1
+    - _Cutoff: 0.5
+    - _Cutout: 0.2
+    - _DetailNormalMapScale: 1
+    - _DiffuseThreshold: 0.1
+    - _Diffusion: 1
+    - _DstBlend: 0
+    - _FresnelStr: 1
+    - _Glossiness: 0.5
+    - _InvFade: 1000
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _TintColor: {r: 1.080939, g: 0.5020995, b: 0.1271693, a: 1}
